@@ -1,0 +1,2 @@
+# scalaBasics
+basics of scala 
